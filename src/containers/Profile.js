@@ -1,6 +1,6 @@
-import React, {Components} from 'react';
+import React, {Component} from 'react';
 
-class Profile extends Components {
+class Profile extends Component {
     render() {
         return (
             <div>

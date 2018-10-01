@@ -1,6 +1,6 @@
-import React, {Components} from 'react';
+import React, {Component} from 'react';
 
-class Template extends Components {
+class Template extends Component {
     render() {
         return (
             <div>
