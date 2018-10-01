@@ -14,7 +14,7 @@ const createRoutes = () => {
             component={Home}
         />
         <Route
-            path={'./profile'}
+            path={'/profile'}
             component={Profile}
         />
 
